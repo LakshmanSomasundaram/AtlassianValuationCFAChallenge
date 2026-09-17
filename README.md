@@ -8,7 +8,7 @@ for the future value of dilution cancelled out the additional cash-equivalent ca
 My Fama-French python file contains calculations for TEAM's Fama-French cost-of-equity (CoE) models, both 3-Factor and 5-Factor. I elected to proceed with the Fama-French
 3-Factor model, as it had a higher R^2 value (0.175) than the CAPM (0.136), while the 5-Factor model was rendered unusable due to producing a negative CoE (-1.62%). This
 negative CoE was driven by negative RMW & CMA coefficents (-2.6660 & -1.2589 respectively). A negative RMW for TEAM is expected as this is commonplace in companies with
-heavy R&D and negative EBIT, both of which are native to TEAM current financial profile. A negative CMA can be explained by TEAM's aggressive expansion over the last few years,
+heavy R&D and negative EBIT, both of which are native to TEAM's current financial profile. A negative CMA can be explained by TEAM's aggressive expansion over the last few years,
 typical for high-growth software companies as they expand operations. 
 
 My standard deviation python file is critical for my Monte Carlo simulation, as it is the backbone for simulation spreads. It covers standard deviation for FCF margins,
