@@ -1,5 +1,4 @@
-This repository contains my primary valuation analysis to conduct an intrinsic valuation of Atlassian (NASDAQ:TEAM). Included is my excel DCF file, fama-french calculations,
-standard deviation calculations for my Monte Carlo simulation, and finally my Monte Carlo Simulation.
+This repository contains the primary valuation analysis used to conduct an intrinsic valuation of Atlassian (NASDAQ:TEAM). Included is my excel DCF file, fama-french calculations, standard deviation calculations for my Monte Carlo simulation, and finally my Monte Carlo Simulation.
 
 My excel file contains a forecasted three-statement DCF model, comparable peers valuation, sensitivity analysis, reverse DCF, CAPM calculation, as well as two discount for 
 lack of marketability models (Chaffe & Finnerty) which I constructed in an attempt to value the cash-equivalent cost of TEAM's stock-based compensation, accounting for the 
