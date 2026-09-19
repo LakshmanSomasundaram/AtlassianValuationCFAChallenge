@@ -11,7 +11,7 @@ negative CoE was driven by negative RMW & CMA coefficents (-2.6660 & -1.2589 res
 heavy R&D and negative EBIT, both of which are native to TEAM's current financial profile. A negative CMA can be explained by TEAM's aggressive expansion over the last few years,
 typical for high-growth software companies as they expand operations. 
 
-My standard deviation python file is critical for my Monte Carlo simulation, as it is the backbone for simulation spreads. It covers standard deviation for FCF margins,
+My standard deviation python file is critical for my Monte Carlo simulation, as it is the backbone for simulation spreads. It covers standard deviation for FCF margins &
 sales growth (calculated from historical margins), WACC (calculated from Fama-French 3-Factor regression), and terminal growth (calculated from 40-year US nominal GDP 1986-2026).
 
 Finally, my Monte Carlo simulation (n = 50,000) ran four key variables, sales growth, FCF margin, WACC & terminal growth. These variables were slected based upon independent 
